@@ -1,0 +1,5 @@
+{
+  "name": "Copy of FocusFlow",
+  "description": "A macOS-inspired productivity tracker that visualizes your daily study hours in a GitHub-style heatmap, powered by Gemini for personalized habit analysis.",
+  "requestFramePermissions": []
+}
